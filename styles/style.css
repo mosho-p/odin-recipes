@@ -1,0 +1,36 @@
+* {
+    font-family: Helvetica, sans-serif;
+    background-color: darkgrey;
+}
+
+h1 {
+    color: blueviolet;
+    background-color: black;
+}
+
+h2 {
+    color: violet;
+    background-color: black;
+}
+
+h3 {
+    color: pink;
+    background-color: black;
+}
+
+.menu {
+    
+}
+
+.ingredients {
+    color: brown;
+}
+
+.ingredients .primary-ingredient {
+    font-size: larger;
+    text-decoration: underline;
+}
+
+.steps {
+    
+}
