@@ -5,6 +5,7 @@
 
 h1, h2, h3 {
     background-color: black;
+    padding: 8px;
 }
 
 h1 {
@@ -23,7 +24,16 @@ h3 {
     
 }
 
+.box {
+    border: 8px solid aqua;
+}
+
 .ingredients {
+    display: inline-block;
+    margin: 6px 12px;
+    padding: 0px 6px;
+    border: 2px solid brown;
+    vertical-align: top;
     color: brown;
 }
 
@@ -33,5 +43,7 @@ h3 {
 }
 
 .steps {
-    
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 12px;
 }
